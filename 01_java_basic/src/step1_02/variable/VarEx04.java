@@ -20,7 +20,7 @@ public class VarEx04 {
 		
 		// 상수
 		final int CEILING_VALUE = 100;
-		CEILING_VALUE = 99;			// 변경 불가능(상수는 항상 대문자로 표기)
+		//CEILING_VALUE = 99;			// 변경 불가능(상수는 항상 대문자로 표기)
 		
 	}
 

@@ -1,6 +1,6 @@
 package step1_03.operator;
 
-public class OpEx02_정답 {
+public class OpEx02_문제복사 {
 
 	public static void main(String[] args) {
 		
